@@ -110,7 +110,8 @@ The most relevant files for SOCCER are:
   Implementation of Stochastic Complementary Masking (SCM).
 * [SOCCER.py](SOCCER.py): Specific loss functions as well as some experiments, visualization tools.
 
-##Citation
+## Citation
+
 If you use SOCCER in your research or wish to refer to the results published in our paper, please use the following BibTeX entry:
 ```shell
 @inproceedings{cui2024stochastic,
